@@ -1,0 +1,112 @@
+[
+  {
+    "category" : "Election Headlines",
+    "data" : [
+      {
+        "title" : "Amit shah Roars",
+        "image_url" : "https://images.firstpost.com/optimize/tXLUR2JnWD26thXnTCt4V9Z75H0=/images.firstpost.com/wp-content/uploads/2020/01/Shah-380.jpg",
+        "caption" : "Amit Shah slams Opposition for 'misleading' minorities on CAA at Bihar rally, says Nitish Kumar to lead NDA in Assembly polls",
+        "time" : "1 hours ago"
+      },
+      {
+        "title" : "President in Action",
+        "image_url" : "https://img.etimg.com/thumb/msid-73327430,width-340,height-273,imgsize-841428,/president-junks-plea-to-disqualify-aap-mla-for-being-member-of-ndmc.jpg",
+        "caption" : "President junks plea to disqualify AAP MLA for being member of NDMC",
+        "time" : "2 hours ago"
+      },
+      {
+        "title" : "Kejrival at Diffence",
+        "image_url" : "https://img.etimg.com/thumb/msid-73296987,width-340,height-273,imgsize-782756,/hope-mlas-dropped-from-assembly-poll-candidate-list-stay-in-aap-family-kejriwal.jpg",
+        "caption" : "Hope MLAs dropped from Assembly poll candidate list stay in AAP family: Kejriwal",
+        "time" : "3 hours ago"
+      },
+      {
+        "title" : "Dhingra Commission report",
+        "image_url" : "https://img.etimg.com/thumb/msid-73295215,width-340,height-273,imgsize-957324,/dhingra-commission-report-ammo-in-bjps-hand-ahead-of-delhi-polls.jpg",
+        "caption" : " Ammo in BJP's hand ahead of Delhi polls",
+        "time" : "10 hours ago"
+      },
+      {
+        "title" : "RSS on CAA",
+        "image_url" : "https://img.etimg.com/thumb/msid-73294764,width-340,height-273,imgsize-422407,/rss-to-activate-its-cadre-on-issues-like-caa-to-hold-30000-meetings-ahead-of-delhi-polls.jpg",
+        "caption" : "RSS to activate its cadre on issues like CAA, to hold 30,000 meetings ahead of Delhi polls",
+        "time" : "13 hours ago"
+      }
+    ]
+  },
+  {
+    "category" : "National Defence News",
+    "data" : [
+      {
+        "title" : "Banned NDFB gives up arms, signs agreement with government",
+        "image_url" : "https://img.etimg.com/thumb/msid-73328059,height-150,imgsize-265831,resizemode-4/news/defence/banned-ndfb-gives-up-arms-signs-agreement-with-government.jpg",
+        "caption" : "According to the pact, the National Democratic Front of Boroland under the leadership of its 'president' B Saoraigwra will abjure violence and join in peace talks with the government. The tripartite agreement was signed by representatives of the NDFB and the central and Assam governments, the officials said. ",
+        "time" : "2 hours ago"
+      },
+      {
+        "title" : "Russian army delegation visits key military logistics' installations in Agra",
+        "image_url" : "https://img.etimg.com/thumb/msid-73326615,height-150,imgsize-1631860,resizemode-4/news/defence/russian-army-delegation-visits-key-military-logistics-installations-in-agra.jpg",
+        "caption" : "The five-member delegation, led by Major General Andrei Kozlov, Chief of the Directorate of the Military Railway Service of the Eastern Military District, visited the Army Base Workshop and the Central Ordnance Depot in Agra, an official release issued here said. The delegation was briefed about the modernised logistics installation. ",
+        "time" : "4 hours ago"
+      },
+      {
+        "title" : "Russian envoy says no doubts on India's Kashmir approach, S-400 missiles to be delivered to India by 2025",
+        "image_url" : "https://img.etimg.com/thumb/msid-73320789,height-150,imgsize-237717,resizemode-4/news/defence/all-s-400-missiles-to-be-delivered-to-india-by-2025-russian-deputy-chief-of-mission.jpg",
+        "caption" : "The production of S-400 missiles to be delivered to India has started, Russian Deputy Chief of Mission Roman Babushkin said. EAM S Jaishankar will visit Russia on March 22 and March 23 to attend a meeting of the Russia-Indian-China trilateral. The S-400, an upgraded version of the S-300, had previously only been available to the Russian defence forces.",
+        "time" : "3 hours ago"
+      },
+      {
+        "title" : "Not ready for peace with India without resolving Kashmir issue in just manner: Pakistan Foreign Minister",
+        "image_url" : "https://img.etimg.com/thumb/msid-73320262,height-150,imgsize-270002,resizemode-4/news/defence/not-ready-for-peace-with-india-without-resolving-kashmir-issue-in-just-manner-pakistan-foreign-minister.jpg",
+        "caption" : "Addressing the CSIS think-tank on Thursday, Qureshi reiterated Pakistan's demand that US President Donald Trump should mediate to resolve the Kashmir issue.Ties between India and Pakistan came under severe strain after New Delhi revoked Jammu and Kashmir's special status and bifurcated it into two Union Territories on August 5, evoking strong reactions from Islamabad.",
+        "time" : "6 hours ago"
+      }
+    ]
+  },
+  {
+    "category" : "Politics And Nation",
+    "data" : [
+      {
+        "title" : "Nirbhaya case",
+        "image_url" : "https://img.etimg.com/thumb/msid-73329026,width-362,height-240,imgsize-254172,resizemode-4/news/politics-and-nation/nirbhaya-case-delhi-court-issues-fresh-death-warrants-against-4-convicts-for-february-1.jpg",
+        "caption" : "Nirbhaya case: Delhi court issues fresh death warrants against 4 convicts for February 1",
+        "time" : "40 minutes ago"
+      },
+      {
+        "title" : "Delhi Assembly elections: BJP releses list of 57 candidate",
+        "image_url" : "https://images.financialexpress.com/2020/01/BJPFlag-1.jpg",
+        "caption" : " \n\n1. Narela – Neeldaman Khatri\n\n2. Seelampur – Surendra Singh Bittu\n\n3. Adarsh Nagar – Rajkimar Bhatia\n\n4. Badli – Vijay Bhagat\n\n5. Rithala – Manish Chaudhary\n\n6. Bawana – Ravindra Kumar Indraj\n\n7. Mundka – Azad Singh\n\n8. Kirari – Anil Jha\n\n9. Sultanpur Majra – Ramchandra Chhavaria\n\n10. Mangol Puri – Karam Singh Karma\n\n11. Rohini – Vijendra Gupta\n\n12. Shalimar Bagh – Rekha Gupta\n\n13. Shakur Basti – S.C. Vats\n\n14. Trinagar – Tilak Ram Gupta\n\n15. Wazirpur – Mahendra Nagpal\n\n16. Model Town – Kapil Mishra\n\n17. Sadar Bazaar – Jay Prakash\n\n18. Chandni Chowk – Suman Kumar Gupta\n\n19. Matia Mahal – Ravindra Gupta\n\n20. Ballimaran – Lata Sodhi\n\n21. Karol Bagh – Yogendra Chandolia\n\n22. Patel Nagar – Parvesh Ratan\n\n23. Moti Nagar – Subhash Sachdeva\n\n24. Madipur – Kailash Sankhla\n\n25. Tilak Nagar – Rajeev Babbar\n\n26. Janakpuri – Ashish Sood\n\n27. Vikaspuri – Sanjay Singh\n\n28. Uttam Nagar – Krishna Gehlot\n\n29. Dwarka – Pradyumna Rajput\n\n30. Matiala – Rajesh Gehlot\n\n31. Najafgarh – Ajit Kharkhari\n\n32. Bijwasan – Satprakash Rana\n\n33. Palam – Vijay Pandit\n\n34. Rajendra Nagar – R.P. Singh\n\n35. Jangpura – Imrit Singh Bakshi\n\n36. Malviya Nagar – Shailendra Singh Moti\n\n37. R K Puram – Anil Sharma\n\n38. Chhatarpur – Brahm Singh Tanwar\n\n39. Deoli – Arvind Kumar\n\n40. Ambedkar Nagar – Khushi Ram\n\n41. Gretaer Kailash – Shikha Ray\n\n42. Tughlakabad – Vikram Bidhuri\n\n43. Badarpur – Ramveer Singh Bidhuri\n\n44. Okhla – Brahm Singh\n\n45. Trilokpuri – Kiran Vaid\n\n46. Kondli – Rajkumar Dhilli\n\n47. Patparganj – Ravi Negi\n\n48. Lakshmi Nagar – Abhay Kumar Verma\n\n49. Vishwas Nagar – O.P Sharma\n\n50. Gandhi Nagar – Anil Vajpayee\n\n51. Rohtas Nagar – Jitendra Mahajan\n\n52. Seelampur – Kaushal Mishra\n\n53. Ghonda – Ajay Mahavar\n\n54. Baburpur – Naresh Gaud\n\n55. Gokulpur – Ranjeet Kashyap\n\n56. Mustafabad – Jagdish Pradhan\n\n57. Karawal Nagar – Mohan Singh Bisht",
+        "time" : "2 hours ago"
+      },
+      {
+        "title" : "Beef delicacy tweet kicks up row; Kerala govt says no aim to hurt anyone's religious beliefs",
+        "image_url" : "https://img.etimg.com/thumb/msid-73325339,width-160,height-120,imgsize-277498/beef-delicacy-tweet-kicks-up-row-kerala-govt-says-no-aim-to-hurt-anyones-religious-beliefs.jpg",
+        "caption" : "\nTourism Minister Kadakampally Surendran criticised those who were trying to give a communal colour to the Tourism department tweet on the Kerala delicacy , \"Beef Ularthiyathu\" and said in the southern state none links food with religion",
+        "time" : "23 hours ago"
+      }
+    ]
+  },
+  {
+    "category" : "Sports",
+    "data" : [
+      {
+        "title" : "The way it’s going, Rafa & Novak will win more than me: Federer",
+        "image_url" : "https://img.etimg.com/thumb/msid-73309551,width-160,height-120,imgsize-444295/the-way-its-going-rafa-novak-will-win-more-than-me-federer.jpg",
+        "caption" : "He didn't say this with a wistful sigh or a disappointed glance at the floor or a trace of regret. That's just the way he sees things at the moment. Entering the Australian Open, scheduled to begin Monday in Melbourne, Federer leads the list with 20 majors, followed by Nadal with 19, then Djokovic with 16.",
+        "time" : "10 hours ago"
+      },
+      {
+        "title" : "Jacqueline Williams set to become 1st woman 3rd umpire in men's international",
+        "image_url" : "https://img.etimg.com/thumb/msid-73270781,width-160,height-120,imgsize-485235/jacqueline-williams-set-to-become-1st-woman-3rd-umpire-in-mens-international.jpg",
+        "caption" : "Williams had become the first woman to officiate as third umpire in an ICC men's tournament in 2016 when she was assigned the Oman versus Nigeria match at the World Cricket League Division Five in Jersey.",
+        "time" : "12 hours ago"
+      },
+      {
+        "title" : "Finch, Warner smash centuries as Australia thrash India by 10 wickets in 1st ODI",
+        "image_url" : "https://img.etimg.com/thumb/msid-73254100,width-160,height-120,imgsize-174254/finch-warner-smash-centuries-as-australia-thrash-india-by-10-wickets-in-1st-odi.jpg",
+        "caption" : "Chasing 256 for win, Finch (110 not out) and Warner (124 not out) took the Indian bowlers to the cleaners to register the emphatic win with 74 balls to spare and take a 1-0 lead in the series. Earlier, Dhawan scored a fifty before Aussies pulled things back to bowl India out for 255 after being invited to bat. The 2nd ODI will be played in Rajkot on Friday.",
+        "time" : "23 hours ago"
+      }
+    ]
+  }
+]
